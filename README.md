@@ -32,5 +32,5 @@ An interactive Power BI dashboard was built on top of this SQL analysis, coverin
 🔗 **[View Live Dashboard](https://app.powerbi.com/groups/me/reports/1182783b-6715-49c1-bd88-097e650e5e5c/4e62768ed210ae1970d0?experience=power-bi)**
 
 ![Executive Summary](dashboard_screenshots/page1_executive_summary.png)
-![Customer Segments](dashboard_screenshots/page2_segments.png)
+![Customer Segments](dashboard_screenshots/page2_customer_segment.png)
 ![Repeat Purchase](dashboard_screenshots/page3_repeat_purchase.png)
